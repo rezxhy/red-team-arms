@@ -16,10 +16,10 @@ Date rendu : Dimanche 29 Mars 2026 à 00h00
        ./setup.sh
 
      Ce script installe automatiquement :
-       ✔ Python 3, pip et venv (via apt)
-       ✔ L'environnement virtuel (dossier venv/)
-       ✔ Toutes les dépendances Python (requirements.txt)
-       ✔ Le fichier .env à partir de env.example
+       Python 3, pip et venv (via apt)
+       L'environnement virtuel (dossier venv/)
+       Toutes les dépendances Python (requirements.txt)
+       Le fichier .env à partir de env.example
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   OBTENIR LA CLÉ API GROQ (GRATUITE)
