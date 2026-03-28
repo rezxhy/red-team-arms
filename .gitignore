@@ -1,0 +1,14 @@
+# Environnement virtuel
+venv/
+.venv/
+
+# Clé API — NE JAMAIS METTRE SUR GITHUB
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers système
+.DS_Store
